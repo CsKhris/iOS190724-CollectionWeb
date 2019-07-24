@@ -80,17 +80,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		03B5034022E7EAB00021C26A /* Collection_Web190724.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Collection_Web190724.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		03B5034022E7EAB00021C26A /* iOS190724 - Collection_Web.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS190724 - Collection_Web.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		03B5034322E7EAB00021C26A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		03B5034522E7EAB00021C26A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		03B5034822E7EAB00021C26A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		03B5034A22E7EAB20021C26A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		03B5034D22E7EAB20021C26A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		03B5034F22E7EAB20021C26A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		03B5035422E7EAB30021C26A /* Collection_Web190724Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Collection_Web190724Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		03B5035422E7EAB30021C26A /* iOS190724 - Collection_WebTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS190724 - Collection_WebTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		03B5035822E7EAB30021C26A /* Collection_Web190724Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Collection_Web190724Tests.swift; sourceTree = "<group>"; };
 		03B5035A22E7EAB30021C26A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		03B5035F22E7EAB30021C26A /* Collection_Web190724UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Collection_Web190724UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		03B5035F22E7EAB30021C26A /* iOS190724 - Collection_WebUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS190724 - Collection_WebUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		03B5036322E7EAB30021C26A /* Collection_Web190724UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Collection_Web190724UITests.swift; sourceTree = "<group>"; };
 		03B5036522E7EAB30021C26A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		03B5037122E7EB280021C26A /* car */ = {isa = PBXFileReference; lastKnownFileType = folder; path = car; sourceTree = "<group>"; };
@@ -213,9 +213,9 @@
 		03B5034122E7EAB00021C26A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				03B5034022E7EAB00021C26A /* Collection_Web190724.app */,
-				03B5035422E7EAB30021C26A /* Collection_Web190724Tests.xctest */,
-				03B5035F22E7EAB30021C26A /* Collection_Web190724UITests.xctest */,
+				03B5034022E7EAB00021C26A /* iOS190724 - Collection_Web.app */,
+				03B5035422E7EAB30021C26A /* iOS190724 - Collection_WebTests.xctest */,
+				03B5035F22E7EAB30021C26A /* iOS190724 - Collection_WebUITests.xctest */,
 				03B5037922E8099F0021C26A /* DataDownload190724.app */,
 				03B5038C22E809A00021C26A /* DataDownload190724Tests.xctest */,
 				03B5039722E809A00021C26A /* DataDownload190724UITests.xctest */,
@@ -333,9 +333,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		03B5033F22E7EAB00021C26A /* Collection_Web190724 */ = {
+		03B5033F22E7EAB00021C26A /* iOS190724 - Collection_Web */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 03B5036822E7EAB30021C26A /* Build configuration list for PBXNativeTarget "Collection_Web190724" */;
+			buildConfigurationList = 03B5036822E7EAB30021C26A /* Build configuration list for PBXNativeTarget "iOS190724 - Collection_Web" */;
 			buildPhases = (
 				03B5033C22E7EAB00021C26A /* Sources */,
 				03B5033D22E7EAB00021C26A /* Frameworks */,
@@ -345,14 +345,14 @@
 			);
 			dependencies = (
 			);
-			name = Collection_Web190724;
+			name = "iOS190724 - Collection_Web";
 			productName = Collection_Web190724;
-			productReference = 03B5034022E7EAB00021C26A /* Collection_Web190724.app */;
+			productReference = 03B5034022E7EAB00021C26A /* iOS190724 - Collection_Web.app */;
 			productType = "com.apple.product-type.application";
 		};
-		03B5035322E7EAB30021C26A /* Collection_Web190724Tests */ = {
+		03B5035322E7EAB30021C26A /* iOS190724 - Collection_WebTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 03B5036B22E7EAB30021C26A /* Build configuration list for PBXNativeTarget "Collection_Web190724Tests" */;
+			buildConfigurationList = 03B5036B22E7EAB30021C26A /* Build configuration list for PBXNativeTarget "iOS190724 - Collection_WebTests" */;
 			buildPhases = (
 				03B5035022E7EAB30021C26A /* Sources */,
 				03B5035122E7EAB30021C26A /* Frameworks */,
@@ -363,14 +363,14 @@
 			dependencies = (
 				03B5035622E7EAB30021C26A /* PBXTargetDependency */,
 			);
-			name = Collection_Web190724Tests;
+			name = "iOS190724 - Collection_WebTests";
 			productName = Collection_Web190724Tests;
-			productReference = 03B5035422E7EAB30021C26A /* Collection_Web190724Tests.xctest */;
+			productReference = 03B5035422E7EAB30021C26A /* iOS190724 - Collection_WebTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		03B5035E22E7EAB30021C26A /* Collection_Web190724UITests */ = {
+		03B5035E22E7EAB30021C26A /* iOS190724 - Collection_WebUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 03B5036E22E7EAB30021C26A /* Build configuration list for PBXNativeTarget "Collection_Web190724UITests" */;
+			buildConfigurationList = 03B5036E22E7EAB30021C26A /* Build configuration list for PBXNativeTarget "iOS190724 - Collection_WebUITests" */;
 			buildPhases = (
 				03B5035B22E7EAB30021C26A /* Sources */,
 				03B5035C22E7EAB30021C26A /* Frameworks */,
@@ -381,9 +381,9 @@
 			dependencies = (
 				03B5036122E7EAB30021C26A /* PBXTargetDependency */,
 			);
-			name = Collection_Web190724UITests;
+			name = "iOS190724 - Collection_WebUITests";
 			productName = Collection_Web190724UITests;
-			productReference = 03B5035F22E7EAB30021C26A /* Collection_Web190724UITests.xctest */;
+			productReference = 03B5035F22E7EAB30021C26A /* iOS190724 - Collection_WebUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 		03B5037822E8099F0021C26A /* DataDownload190724 */ = {
@@ -537,7 +537,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 03B5033B22E7EAB00021C26A /* Build configuration list for PBXProject "Collection_Web190724" */;
+			buildConfigurationList = 03B5033B22E7EAB00021C26A /* Build configuration list for PBXProject "iOS190724 - Collection_Web" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -550,9 +550,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				03B5033F22E7EAB00021C26A /* Collection_Web190724 */,
-				03B5035322E7EAB30021C26A /* Collection_Web190724Tests */,
-				03B5035E22E7EAB30021C26A /* Collection_Web190724UITests */,
+				03B5033F22E7EAB00021C26A /* iOS190724 - Collection_Web */,
+				03B5035322E7EAB30021C26A /* iOS190724 - Collection_WebTests */,
+				03B5035E22E7EAB30021C26A /* iOS190724 - Collection_WebUITests */,
 				03B5037822E8099F0021C26A /* DataDownload190724 */,
 				03B5038B22E809A00021C26A /* DataDownload190724Tests */,
 				03B5039622E809A00021C26A /* DataDownload190724UITests */,
@@ -722,12 +722,12 @@
 /* Begin PBXTargetDependency section */
 		03B5035622E7EAB30021C26A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 03B5033F22E7EAB00021C26A /* Collection_Web190724 */;
+			target = 03B5033F22E7EAB00021C26A /* iOS190724 - Collection_Web */;
 			targetProxy = 03B5035522E7EAB30021C26A /* PBXContainerItemProxy */;
 		};
 		03B5036122E7EAB30021C26A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 03B5033F22E7EAB00021C26A /* Collection_Web190724 */;
+			target = 03B5033F22E7EAB00021C26A /* iOS190724 - Collection_Web */;
 			targetProxy = 03B5036022E7EAB30021C26A /* PBXContainerItemProxy */;
 		};
 		03B5038E22E809A00021C26A /* PBXTargetDependency */ = {
@@ -972,7 +972,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Collection_Web190724.app/Collection_Web190724";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iOS190724 - Collection_Web.app/iOS190724 - Collection_Web";
 			};
 			name = Debug;
 		};
@@ -992,7 +992,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Collection_Web190724.app/Collection_Web190724";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iOS190724 - Collection_Web.app/iOS190724 - Collection_Web";
 			};
 			name = Release;
 		};
@@ -1267,7 +1267,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		03B5033B22E7EAB00021C26A /* Build configuration list for PBXProject "Collection_Web190724" */ = {
+		03B5033B22E7EAB00021C26A /* Build configuration list for PBXProject "iOS190724 - Collection_Web" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				03B5036622E7EAB30021C26A /* Debug */,
@@ -1276,7 +1276,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		03B5036822E7EAB30021C26A /* Build configuration list for PBXNativeTarget "Collection_Web190724" */ = {
+		03B5036822E7EAB30021C26A /* Build configuration list for PBXNativeTarget "iOS190724 - Collection_Web" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				03B5036922E7EAB30021C26A /* Debug */,
@@ -1285,7 +1285,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		03B5036B22E7EAB30021C26A /* Build configuration list for PBXNativeTarget "Collection_Web190724Tests" */ = {
+		03B5036B22E7EAB30021C26A /* Build configuration list for PBXNativeTarget "iOS190724 - Collection_WebTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				03B5036C22E7EAB30021C26A /* Debug */,
@@ -1294,7 +1294,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		03B5036E22E7EAB30021C26A /* Build configuration list for PBXNativeTarget "Collection_Web190724UITests" */ = {
+		03B5036E22E7EAB30021C26A /* Build configuration list for PBXNativeTarget "iOS190724 - Collection_WebUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				03B5036F22E7EAB30021C26A /* Debug */,
